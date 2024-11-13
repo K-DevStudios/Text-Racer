@@ -13,3 +13,6 @@
 
 Looking forward to seeing how this evolves and refining the experience based on user interaction.
 
+HOW TO USE:
+
+When pressing "START", a 60 second timer will countdown and sentences will generate above a text area where the user will be required to type each sentence as it comes in. Once the user types the full sentence in the sentence area, you may hit enter to enter the sentence into the database and proceed with the next one. Failure to match each word correctly will result in being unable to continue the game. Your amount of sentences and words typed will be displayed at the end of the timer, along with a button to restart the game.
