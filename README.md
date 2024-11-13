@@ -1,3 +1,7 @@
+![Screenshot (132)](https://github.com/user-attachments/assets/007d3513-4362-4d71-b173-26fe3467e0d2)
+
+
+
 "Type Racer" – Version 1.0**
 
 - First ever upload of the "Type Racer" project, designed to improve typing speed and accuracy through timed text challenges.
@@ -8,3 +12,4 @@
 - The project is still ongoing with more updates planned. User feedback, ideas, and suggestions for future improvements are always welcome!
 
 Looking forward to seeing how this evolves and refining the experience based on user interaction.
+
