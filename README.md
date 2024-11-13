@@ -2,7 +2,7 @@
 
 
 
-"Type Racer" – Version 1.0**
+"Text Racer" – Version 1.0**
 
 - First ever upload of the "Type Racer" project, designed to improve typing speed and accuracy through timed text challenges.
 - Users must type 60 sentences within a set time limit, striving to achieve the highest possible sentence and word count.
